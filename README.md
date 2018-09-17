@@ -1,5 +1,5 @@
 # -block-with-comments
- block with comments using OOP 
+ block with comments using
 Задача на декомпозицию
 
 Необходимо реализовать форму добавления комментариев.
